@@ -1,0 +1,9 @@
+{
+  "name": "createspam",
+  "description": "Création de post pour clc",
+  "main": "index.js",
+  "author": "4wip",
+  "dependencies": {
+    "puppeteer": "^24.1.1"
+  }
+}
